@@ -57,4 +57,4 @@ Unity를 활용한 3D 생존, 크래프팅 게임 제작
 
 # 🔔링크
 - [팀 노션 페이지](https://teamsparta.notion.site/0b9faf2d9d5945d2bf4fe749d2a26ecd)
-- [플레이 영상]()
+- [플레이 영상](https://www.youtube.com/watch?v=AHXV1uKcp28)
