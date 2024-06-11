@@ -1,4 +1,5 @@
 # 🎮Six Survival
+- [다운로드](https://drive.google.com/file/d/1S4Xb_3mXEivs6t3KinKGiZoeyNDcz3aq/view?usp=drive_link)
 - 조작 방법
   - 이동 : W, A, S, D
   - 점프 : Spacebar
